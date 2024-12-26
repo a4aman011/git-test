@@ -1,3 +1,6 @@
 hi this is day 5 of git classes.
 soon i will have enough knowledge in git.
 i have to do hands-on practice on git.
+
+i have commited one time and now commiting again to see the difference
+between the two commits. 
