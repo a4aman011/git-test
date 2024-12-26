@@ -1,0 +1,3 @@
+hi this is day 5 of git classes.
+soon i will have enough knowledge in git.
+i have to do hands-on practice on git.
